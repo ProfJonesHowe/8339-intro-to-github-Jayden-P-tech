@@ -3,11 +3,11 @@ Edit the index.html page.
   Replace it with your answers to the five fun questions below.
   Keep your answers safe—don’t share personal identifying information (PII) like phone numbers, addresses, or emails.
 The Questions:
-  What’s your favorite food? 🍕
-  If you could instantly learn one skill, what would it be?
-  What’s a movie, show, or game you never get tired of? 🎬🎮
-  If you had a superpower, what would it be? 🦸
-  What’s your dream travel destination? ✈️
+  What’s your favorite food? 🍕 My Favorite food is a Mushroom sandwich and Mac and cheese
+  If you could instantly learn one skill, what would it be? Programming 
+  What’s a movie, show, or game you never get tired of? 🎬🎮 Car racing games 
+  If you had a superpower, what would it be? 🦸 The power of superintelligence
+  What’s your dream travel destination? ✈️ Singapore
 Commit (Save) your changes.
 Write a short commit message like:
   Answered 5 fun questions
