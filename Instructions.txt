@@ -9,6 +9,7 @@ The Questions:
   If you had a superpower, what would it be? 🦸 The power of superintelligence
   What’s your dream travel destination? ✈️ Singapore
 Commit (Save) your changes.
+
 Write a short commit message like:
   Answered 5 fun questions
   Then commit your work to your repository.
@@ -16,5 +17,24 @@ View your page.
   Go to your repository’s Settings → Pages (sometimes shown as “Deployments → Pages”).
   Open the link in your browser—you should see your answers displayed!
 Submit your link.
+
+"My HTML Page" 
+<DOCTYPE! html> 
+<html>
+
+<title>My webpage</title>
+<body>
+This is my webpage 
+<h1> My hobby of sports </h1>
+<h2> Example of my sport: Swimming <h2> 
+
+<p> "I like swimming because of the aquatic lifestyle and it is refreshing. Swimming help me to cool myself and its competitive. My Mom, sister, and I went to the beach always on a hot sunny day. Also, I like to watch swimming competition sometimes. Swimming is more than relaxing--it's a intriguing experience."</p>
+
+<a href= "https://www.swimmingworldmagazine.com/news/how-swimming-changed-my-life-and-the-merits-of-being-a-swimmer/"> The Benefits of Swimming</a>
+
+<img src= "https://swimswam.com/pfas-ban-sees-tech-suit-shipments-halted-in-california-and-new-york-no-suit-ban-imminent/"> Image of Swimmers </img> 
+
+ <body> 
+</html>
   Copy your GitHub Pages URL (something like https://yourusername.github.io/reponame).
   Submit it in Brightspace under Assignment #1: Intro to GitHub.
