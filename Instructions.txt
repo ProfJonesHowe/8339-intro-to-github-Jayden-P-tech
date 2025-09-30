@@ -32,7 +32,7 @@ This is my webpage
 
 <a href= "https://www.swimmingworldmagazine.com/news/how-swimming-changed-my-life-and-the-merits-of-being-a-swimmer/"> The Benefits of Swimming</a>
 
-<img src= "https://swimswam.com/pfas-ban-sees-tech-suit-shipments-halted-in-california-and-new-york-no-suit-ban-imminent/"> Image of Swimmers </img> 
+<img src= "https://www.cpr.org/cdn-cgi/image/width=3840,quality=75,format=auto/https://wp-cpr.s3.amazonaws.com/uploads/2022/08/AP22220520628447-scaled.jpg" >
 
  <body> 
 </html>
